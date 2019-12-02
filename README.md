@@ -59,12 +59,12 @@ The bin model is trained with the best hyperparameters and saved in the `./model
 python modelling.py
 ```
 
+I chose recall as my evaluation metric in order to fit more reviews in the correct buckets or classes.
+
 Evaluation Results on the Test Set.
 
 ```
-N	526167
-P@1	0.863
-R@1	0.863
+Recall@1	0.863
 ```
 
 You can also get results /predictions for your test review by running the below file. 
