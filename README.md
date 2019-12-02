@@ -14,7 +14,7 @@ FastText as a library for efficient learning of word representations and sentenc
 
 ## Get the Data.
 
-The date used in this project from the initial Kaggle dataset to the intermediate FastText files created could be downloaded from here.
+The <a href="https://drive.google.com/open?id=1wVN-TYx53pbTEnkHzcpMsm9SADvowUx3">data</a> used in this project from the initial Kaggle dataset to the intermediate FastText files created could be downloaded from <a href="https://drive.google.com/open?id=1wVN-TYx53pbTEnkHzcpMsm9SADvowUx3">here</a>.
 
 In this repository, I have kept the `./data/` directory empty. You can place the downloaded folder (extracted) in the `./data/` and follow the below instructions.
 
