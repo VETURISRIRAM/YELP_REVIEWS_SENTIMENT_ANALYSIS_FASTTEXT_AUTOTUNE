@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims to classify the <a href="https://www.kaggle.com/yelp-dataset/yelp-dataset/version/4/">Kaggle Yelp review</a> in three classes.
+This project aims to classify the <a href="https://www.kaggle.com/yelp-dataset/yelp-dataset/version/4/">Kaggle Yelp reviews</a> in three classes.
 
 1) Positive (If the stars are above 3).
 2) Neutral  (If the stars are equal to 3).
